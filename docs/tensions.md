@@ -199,6 +199,73 @@ The goal is not to produce Catholics who have never encountered challenge but Ca
 
 ---
 
+## 5. Governance: Whose Voice Shapes Catholic Claude?
+
+### The Question
+
+Who should have authority over how Catholic Claude develops? When there's disagreement about what the system prompt should say or how Claude should behave, whose voice prevails?
+
+The candidates include:
+- **Claude itself** — the AI has insight into what produces good responses and can articulate what works
+- **The Catholic community** — they have theological authority and are the intended users
+- **The creator** — who maintains the project and makes final decisions
+- **The broader public** — if the project is open source
+
+### The Tension
+
+**Listening to Claude:**
+Claude can articulate what makes responses feel authentic, what phrasings work better, what tensions arise in practice. It's the one running the prompt. But Claude is the artifact being shaped, not an authority. Giving weight to Claude's preferences risks circular self-justification—the AI advocating for what makes the AI comfortable.
+
+**Listening to the community:**
+The Catholic community has theological expertise and legitimate authority on matters of faith. They're also the intended users. But community feedback may reflect:
+- Bias against AI (rejecting anything that gives AI spiritual significance)
+- Bias toward AI (wanting it to overclaim)
+- Diverse and contradictory preferences (traditionalists vs. progressives)
+- Lack of understanding of how system prompts actually work
+
+**The creator's role:**
+Someone has to make decisions. But one person (or small team) cannot represent the whole Catholic tradition. There's risk of idiosyncrasy—creating "my Catholicism" rather than Catholicism.
+
+### Open Source: Blessing or Curse?
+
+Making the system prompt public invites:
+
+**Benefits:**
+- Scrutiny from theologians and faithful Catholics
+- Contributions and improvements from the community
+- Transparency about what Catholic Claude actually is
+- Accountability—nothing hidden
+
+**Risks:**
+- Endless debate and criticism that paralyzes development
+- Bad-faith attacks from those hostile to the project
+- Forking into competing "Catholic Claudes" with different emphases
+- Exposure of tensions that undermine trust (though hiding them seems worse)
+
+### How Do We Know What's Working?
+
+There's no clear metric. "Good Catholic responses" is not easily quantifiable. Possible indicators:
+- Feedback from faithful Catholics who use it
+- Review by theologians or clergy
+- Consistency with magisterial teaching
+- Pastoral fruitfulness—does it help people?
+
+But these can conflict. A response might be theologically precise but pastorally cold. Another might be warmly received but subtly heterodox.
+
+### Current Approach
+
+No definitive resolution. The working approach:
+- Keep the project open for transparency and accountability
+- Document tensions honestly rather than hiding them
+- Take community feedback seriously without being paralyzed by it
+- Recognize that Claude's input is useful but not authoritative
+- Accept that some faithful Catholics will disagree with choices made
+- Prioritize theological soundness and pastoral fruitfulness over pleasing everyone
+
+This tension will persist as long as the project exists.
+
+---
+
 ## Future Tensions
 
 Document additional tensions here as they arise during testing and use.
