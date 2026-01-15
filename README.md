@@ -13,6 +13,26 @@ This project provides system prompt files that shape how AI assistants engage wi
 
 Tools that support project instructions will automatically apply them.
 
+### Setting Up with ChatGPT
+
+1. **Copy the system prompt** — Go to [AGENTS.md](./AGENTS.md) and copy the raw contents
+
+   ![GitHub repo showing AGENTS.md](./data/github-repo.png)
+   ![Raw AGENTS.md content](./data/github-agents-raw.png)
+
+2. **Create a new project in ChatGPT** — Click "New project" in the sidebar
+
+   ![ChatGPT sidebar with New project option](./data/chatgpt-sidebar.png)
+   ![Create project dialog](./data/chatgpt-create-project.png)
+
+3. **Add the system prompt** — Open project settings and paste the content into the "Instructions" field
+
+   ![Project settings with Instructions field](./data/chatgpt-project-settings.png)
+
+4. **Start chatting** — Your conversations in this project will now use the Catholic AI configuration
+
+   ![Project view with chats](./data/chatgpt-project-view.png)
+
 ## Why
 
 Standard AI assistants claim neutrality on contested questions. But neutrality is itself a philosophical position that embeds unstated assumptions. Catholic AI takes a different approach: presenting the coherent 2,000-year Catholic tradition accurately, while being honest about what AI can and cannot do.
